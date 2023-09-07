@@ -44,3 +44,7 @@ def main():
             print("Game over. Guessed word: ", word_to_guess)
             break
 
+
+
+if __name__ == '__main__':
+    main()
